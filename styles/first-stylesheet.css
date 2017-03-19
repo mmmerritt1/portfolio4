@@ -1,0 +1,58 @@
+  .title {
+    color: green;
+    text-align: center;
+    font-size: 6rem;
+    background-color: salmon;
+  }
+
+  .sections:hover {
+    color: red;
+    background-color: yellow;
+  }
+
+  .sections::first-letter {
+    font-size: 3rem;
+  }
+
+  .centertext {
+    text-align: center;
+    color: blue;
+    font-size: 1rem
+  }
+
+  .leadin {
+    background-color: yellow;
+    text-align: center;
+    color: blue;
+    font-size: 2rem
+  }
+
+  .places {
+    font-style: italic;
+    color: purple;
+    font-size: 2rem;
+    background-color: salmon;
+  }
+
+  .listlinks {
+    background-color: yellow;
+    font-size: 2rem;
+    font-style: italic;
+    width: 50%;
+  }
+
+  .footerblock {
+    background-color: black;
+    font-size: 1rem;
+    font-style: italic;
+    color: white;
+    width: 30%;
+  }
+
+  .pictitles {
+    background-color: black;
+    font-size: 2rem;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+  }
